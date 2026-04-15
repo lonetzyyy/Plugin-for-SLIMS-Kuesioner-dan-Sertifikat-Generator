@@ -33,6 +33,8 @@ Plugin ini dirancang untuk otomasi pengumpulan umpan balik (kuesioner) dari pemu
 4. **Kirim Sertifikat**: 
    - Masuk ke menu **Laporan Kuesioner**.
    - Pilih responden (atau centang semua), lalu klik tombol **Kirim Email Massal**.
+5, **Akses Kuesioner Untuk Pengunjung**:
+   - index.php?p=kuesioner
 
 ## 📖 Persyaratan Sistem
 
