@@ -12,4 +12,4 @@ $plugins = Plugins::getInstance();
 
 $plugins->registerMenu('opac', 'kuesioner', __DIR__ . '/pages/kuesioner.inc.php');
 $plugins->registerMenu('system', 'Kuesioner dan sertifikat', __DIR__ . '/pages/settings_kuesioner.inc.php');
-$plugins->registerMenu('circulation', 'Settings kuesioner dan sertifikat', __DIR__ . '/pages/laporan_kuesioner.inc.php');
+$plugins->registerMenu('circulation', 'kuesioner dan sertifikat', __DIR__ . '/pages/laporan_kuesioner.inc.php');

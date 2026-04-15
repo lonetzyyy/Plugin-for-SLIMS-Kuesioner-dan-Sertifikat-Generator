@@ -11,7 +11,7 @@ class MembuatTabel extends Migration
             $table->autoIncrement('id');
             $table->string('npm', 255)->notNull();
             $table->string('nama', 255)->notNull();
-            $table->string('email', 255)->notNull();
+            $table->string('email', 255)->nullable();
             $table->string('judul', 255)->notNull();
             $table->text('pertanyaan')->notNull();
             $table->text('flyer')->nullable();

@@ -20,7 +20,7 @@ $config_sertifikat_raw = $row['config_sertifikat'] ?? '{}';
 $config_sertifikat = json_decode($config_sertifikat_raw, true) ?? [];
 $pos_x = $config_sertifikat['pos_x'] ?? '150';
 $pos_y = $config_sertifikat['pos_y'] ?? '100';
-$ukuran_font = $config_sertifikat['ukuran_font'] ?? '64';
+$ukuran_font = $config_sertifikat['ukuran_font'] ?? '30';
 $warna_teks = $config_sertifikat['warna_teks'] ?? '#000000';
 $jenis_font = $config_sertifikat['jenis_font'] ?? 'Arial';
 
