@@ -38,8 +38,8 @@ Plugin ini dirancang untuk otomasi pengumpulan umpan balik (kuesioner) dari pemu
 
 ## 📖 Persyaratan Sistem
 
-- SLiMS 9 Bulian atau versi terbaru.
-- PHP 7.4 atau lebih tinggi.
+- SLiMS 9.7 Bulian atau versi terbaru.
+- PHP 8.2 atau lebih tinggi.
 - Ekstensi PHP: `GD`, `mysqli`, `zip`, `mbstring`.
 - Library FPDF (sudah disertakan dalam paket plugin).
 
